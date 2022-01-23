@@ -1,0 +1,39 @@
+﻿{
+	{
+	}
+	{
+		var = 12;
+	}
+	test = 10; test = 11; test = 12;
+	test := 12;
+	test = 10;
+	while true 
+	{
+		print 1;
+	}
+	if (1<2)
+	{
+		print 2;
+	}
+	else
+	{
+	}
+	test = -1234;
+	test = 1234;
+	test = false;
+	test = true;
+	test = test;
+	test = 12 + 14;
+	asdasd
+	test = 17 * 24;
+	test = false || true;
+	test = false && true;
+	test = !false;
+	test = 12 == 32;
+	test = 72 < 03;
+	test = (13*(23+21));
+	tTTTeEsST = -1234;
+	;;
+	;;;
+	;;;;
+}

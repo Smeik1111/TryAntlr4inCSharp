@@ -1,0 +1,15 @@
+﻿{
+	print 1;
+	test := 12;
+	while true 
+	{
+		if 1 < test 
+		{
+			test = 14;
+		}
+		else
+		{
+		 print 2;
+		}
+	}
+}

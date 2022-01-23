@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Try_Antlr": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
